@@ -49,17 +49,17 @@ Improvement: +0.89%
 Custom Label Smoothing Loss achieved a final accuracy of 95.77% compared to 94.87% with Standard Loss.
 
 The experiment shows that label smoothing improves model generalization and reduces overconfidence in predictions.
-
-CIFAR-10 Dataset
-       ↓
-Data Preprocessing
-       ↓
-MobileNetV2
-       ↓
-Loss Functions
-   ├─ Standard Loss
-   └─ Label Smoothing Loss
-       ↓
-Training
-       ↓
-Accuracy Comparison
+<br>
+CIFAR-10 Dataset<br>
+       ↓<br>
+Data Preprocessing<br>
+       ↓<br>
+MobileNetV2<br>
+       ↓<br>
+Loss Functions<br>
+   ├─ Standard Loss<br>
+   └─ Label Smoothing Loss<br>
+       ↓<br>
+Training<br>
+       ↓<br>
+Accuracy Comparison<br>
