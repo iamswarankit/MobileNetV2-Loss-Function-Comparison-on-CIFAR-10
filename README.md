@@ -1,9 +1,9 @@
 # MobileNetV2 Loss Function Comparison on CIFAR-10
 
 ## Team Members
-- Name 1
-- Name 2
-- Name 3
+- Sanskar Dave
+- Vaibhav Rawat
+- Mune Harshvardhan Jagdish
 
 ## Objective
 Compare different loss functions on MobileNetV2 using the CIFAR-10 dataset.
