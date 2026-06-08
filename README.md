@@ -12,11 +12,16 @@ Compare different loss functions on MobileNetV2 using the CIFAR-10 dataset.
 CIFAR-10
 
 ## Model
-MobileNetV2 (Pretrained)
+MobileNetV2 
+- Efficient CNN Architecture
+- Lightweight Deep Learning Model
+- Computationally Efficient CNN
+- Optimized for Image Classification
+- Resource-Efficient Neural Network
 
 ## Loss Functions
 - Cross Entropy Loss
-- Label Smoothing Loss
+- Label Smoothing Loss (Custom Loss Function)
 
 ## Optimizer
 Adam
@@ -31,6 +36,8 @@ Adam
 - PyTorch
 - Torchvision
 - Matplotlib
+- Numpy
+- Kaggle
 
 ## How to Run
 Open the notebook and run all cells.
@@ -42,6 +49,8 @@ Standard Loss Accuracy: 94.87%
 Custom Label Smoothing Accuracy: 95.77%
 
 Improvement: +0.89%
+
+## Contribution
 
 ## Conclusion
 
