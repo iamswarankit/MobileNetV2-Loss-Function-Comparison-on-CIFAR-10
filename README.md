@@ -16,7 +16,6 @@ MobileNetV2 (Pretrained)
 
 ## Loss Functions
 - Cross Entropy Loss
-- Focal Loss
 - Label Smoothing Loss
 
 ## Optimizer
