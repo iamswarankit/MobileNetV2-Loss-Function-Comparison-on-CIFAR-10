@@ -52,7 +52,7 @@ Improvement: +0.89%
 
 
 
-—- Team Contributions——
+## Team Contributions
 
 This project was developed collaboratively by all three team members. Each member actively participated in implementation, experimentation and analysis. Each member focused more extensively on specific components of the project.
 
