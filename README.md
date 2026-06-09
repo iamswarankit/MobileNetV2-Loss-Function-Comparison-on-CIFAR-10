@@ -22,6 +22,7 @@ MobileNetV2
 ## Loss Functions
 - Cross Entropy Loss
 - Label Smoothing Loss (Custom Loss Function)
+- Output Penalty (Custom Loss Function)
 
 ## Optimizer
 Adam
