@@ -1,9 +1,9 @@
 # MobileNetV2 Loss Function Comparison on CIFAR-10
 
 ## Team Members
-- Sanskar Dave
-- Vaibhav Rawat
-- Mune Harshvardhan Jagdish
+- Sanskar Dave (AD25B1030)
+- Vaibhav Rawat (CS25B1043)
+- Mune Harshvardhan Jagdish (AD25B1022)
 
 ## Objective
 Compare different loss functions on MobileNetV2 using the CIFAR-10 dataset.
@@ -50,37 +50,42 @@ Custom Label Smoothing Accuracy: 95.77%
 
 Improvement: +0.89%
 
-## Team Contributions
 
-This project was developed collaboratively by all three team members. Each member actively participated in problem formulation, literature review, implementation, experimentation, debugging, and analysis. While responsibilities overlapped and all decisions were made collectively, each member focused more extensively on specific components of the project.
 
-### Sanskar Dave – Dataset Preparation and Model Architecture
+—- Team Contributions——
+
+This project was developed collaboratively by all three team members. Each member actively participated in implementation, experimentation and analysis. Each member focused more extensively on specific components of the project.
+
+—- Sanskar Dave – Dataset Preparation and Model Architecture
 
 * Conducted research on image classification techniques and transfer learning.
 * Prepared and preprocessed the CIFAR-10 dataset using PyTorch and torchvision transformations.
 * Implemented the MobileNetV2 architecture and modified the classifier layer for 10-class classification.
-* Assisted in training, debugging, and evaluation of all experiments.
-* Contributed to the comparative analysis and result interpretation.
+* Assisted in model training, debugging, and evaluation of all experiments.
+* Contributed to comparative analysis and interpretation of results.
 
-### Mune Harhsvardhan Jagdish – Loss Function Design and Experimental Setup
+—- Mune Harshvardhan Jagdish – Loss Function Design and Experimental Setup
 
 * Studied different loss functions and their impact on model performance.
 * Implemented the standard Cross Entropy Loss and the custom Label Smoothing Loss.
 * Developed the Output Penalty Loss function and integrated it into the training pipeline.
 * Participated in hyperparameter tuning, model training, and performance evaluation.
-* Collaborated in analyzing the effectiveness of different loss functions.
+* Collaborated in analyzing the effectiveness of different loss functions and validating experimental outcomes.
 
-### Vaibhav Rawat(Rajput) – Training Pipeline, Visualization, and Performance Analysis
+—- Vaibhav Rawat – Training Pipeline, Visualization, and Performance Analysis
 
-* Researched optimization techniques and training strategies for deep learning models.
-* Developed the training framework using the Adam optimizer and implemented accuracy and loss tracking.
-* Conducted multiple experiments to ensure fair comparison between loss functions by reinitializing the model.
-* Generated graphical visualizations of training loss and accuracy using Matplotlib.
-* Prepared the final performance summary and contributed to documentation and interpretation of results.
+* Researched optimization techniques, transfer learning strategies, and model evaluation methodologies.
+* Designed and implemented the complete training pipeline using the Adam optimizer with loss and accuracy tracking.
+* Managed experiment execution and ensured fair comparison by reinitializing the model before each training setup.
+* Performed training and validation of multiple experiments across different loss functions.
+* Developed visualization modules using Matplotlib to compare training loss and accuracy trends.
+* Conducted performance analysis and summarized experimental results to assess the impact of each loss function.
+* Contributed to documentation, result interpretation, and preparation of the final project report.
 
 ### Overall Contribution
 
-All team members contributed equally throughout the project. Research, coding, debugging, experiment design, and result analysis were carried out collaboratively. The division above represents the areas where each member devoted additional focus, while maintaining continuous involvement in every stage of the project.
+All team members contributed equally throughout the project. Research, coding and result analysis were carried out collaboratively.
+
 
 ## Conclusion
 
