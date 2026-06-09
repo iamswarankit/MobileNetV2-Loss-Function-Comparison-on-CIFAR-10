@@ -93,20 +93,10 @@ All team members contributed equally throughout the project. Research, coding an
 
 ## Conclusion
 
-Custom Label Smoothing Loss achieved a final accuracy of 95.77% compared to 94.87% with Standard Loss.
+This project evaluated the performance of MobileNetV2 on the CIFAR-10 dataset using three different loss functions: Standard Cross Entropy Loss, Label Smoothing Loss, and Output Penalty Loss.
 
-The experiment shows that label smoothing improves model generalization and reduces overconfidence in predictions.
-<br>
-CIFAR-10 Dataset<br>
-       ↓<br>
-Data Preprocessing<br>
-       ↓<br>
-MobileNetV2<br>
-       ↓<br>
-Loss Functions<br>
-   ├─ Standard Loss<br>
-   └─ Label Smoothing Loss<br>
-       ↓<br>
-Training<br>
-       ↓<br>
-Accuracy Comparison<br>
+The experimental results demonstrate that the choice of loss function has a significant impact on classification performance. Among the evaluated approaches, Label Smoothing Loss achieved the best overall results, obtaining the highest accuracy (92.17%), precision (92.25%), recall (92.17%), and F1-score (92.19%).
+
+Output Penalty Loss also improved performance compared to the standard loss function, indicating that regularization techniques can enhance the generalization ability of deep learning models. However, Label Smoothing Loss consistently outperformed the other methods across all evaluation metrics.
+
+Overall, the study shows that incorporating advanced loss functions can improve the effectiveness of MobileNetV2 for image classification tasks. Based on the obtained results, Label Smoothing Loss is the most suitable choice among the tested loss functions for CIFAR-10 classification using MobileNetV2.
