@@ -44,11 +44,14 @@ Open the notebook and run all cells.
 
 ## Results
 
-Standard Loss Accuracy: 94.87%
+The performance of MobileNetV2 was evaluated on the CIFAR-10 test dataset using three different loss functions.
 
-Custom Label Smoothing Accuracy: 95.77%
-
-Improvement: +0.89%
+| Metric | Standard Loss | Label Smoothing Loss | Output Penalty Loss |
+|----------|----------:|----------:|----------:|
+| Accuracy (%) | 90.80 | 92.17 | 91.88 |
+| Precision (%) | 91.20 | 92.25 | 91.95 |
+| Recall (%) | 90.80 | 92.17 | 91.88 |
+| F1 Score (%) | 90.83 | 92.19 | 91.86 |
 
 
 
