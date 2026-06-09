@@ -52,9 +52,9 @@ Improvement: +0.89%
 
 ## Contribution
 
-Sanskar: MobileNetV2 & Transfer Learning<br>
-Vaibhav: Performance Evaluation & Visualization<br>
-Harshvardhan: Loss Function Implementation<br>
+- Sanskar: MobileNetV2 & Transfer Learning<br>
+- Vaibhav: Performance Evaluation & Visualization<br>
+- Harshvardhan: Loss Function Implementation<br>
 
 ## Conclusion
 
