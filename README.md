@@ -52,6 +52,10 @@ Improvement: +0.89%
 
 ## Contribution
 
+Sanskar: MobileNetV2 & Transfer Learning<br>
+Vaibhav: Performance Evaluation & Visualization<br>
+Harshvardhan: Loss Function Implementation<br>
+
 ## Conclusion
 
 Custom Label Smoothing Loss achieved a final accuracy of 95.77% compared to 94.87% with Standard Loss.
