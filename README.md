@@ -41,8 +41,8 @@ Adam
 - Kaggle
 
 ## How to Run
-[text](https://www.kaggle.com/code/vaibhavrawat427/notebook21776ffecb-00f13e)
-Open the notebook and run all cells.
+[Run here on kaggle.](https://www.kaggle.com/code/vaibhavrawat427/notebook21776ffecb-00f13e)
+<br>Open the notebook and run all cells.
 
 ## Results
 
